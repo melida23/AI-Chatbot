@@ -38,7 +38,7 @@ Microsoft Copilot Studio
 
 ## 🎥 Demo
 
-👉 [Try the Chatbot Live](https://copilotstudio.microsoft.com/environments/Default-a3f14f21-237f-4028-b978-425eb768a716/bots/crac2_agent1/canvas?__version__=2&enableFileAttachment=true)
+https://copilotstudio.microsoft.com/environments/Default-a3f14f21-237f-4028-b978-425eb768a716/bots/crac2_agent1/canvas?__version__=2&enableFileAttachment=true
 
 ---
 
